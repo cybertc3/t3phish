@@ -1,10 +1,10 @@
 ## Installation :
 
-* `apt update`
+* `apt update && apt upgrade -y
 * `apt install git curl php openssh -y`
 * `https://github.com/cybertc3/t3phish.git`
 * `cd t3phish`
-#### > Run : `bash zphisher.sh`
+#### > Run : `bash t3phish.sh`
 
 ## Single Command :
 ```
@@ -23,6 +23,7 @@ apt update ; apt install git curl php openssh -y ;  cd t3phish ; bash t3phish.sh
 #### > TheLinuxChoice (https://github.com/thelinuxchoice)
 #### > DarksecDevelopers (https://github.com/DarksecDevelopers)
 #### > UndeadSec (https://github.com/UndeadSec)
+#### > Cybertech3 (https://github.com/cybertc3/t3phish.git`)
 
 ## Tunelling Options :
 #### > Localhost (127.0.0.1)
